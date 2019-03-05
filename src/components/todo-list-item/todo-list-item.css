@@ -1,0 +1,9 @@
+.todo-list-item{}
+
+.todo-list-item__text{
+    cursor: pointer;
+}
+
+.todo-list-item__btns button{
+    width: 40px;
+}
