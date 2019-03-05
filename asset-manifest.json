@@ -1,0 +1,13 @@
+{
+  "main.css": "/simple-todo/static/css/main.4c9c007e.chunk.css",
+  "main.js": "/simple-todo/static/js/main.ec36a8fa.chunk.js",
+  "main.js.map": "/simple-todo/static/js/main.ec36a8fa.chunk.js.map",
+  "static/js/1.86fd2c64.chunk.js": "/simple-todo/static/js/1.86fd2c64.chunk.js",
+  "static/js/1.86fd2c64.chunk.js.map": "/simple-todo/static/js/1.86fd2c64.chunk.js.map",
+  "runtime~main.js": "/simple-todo/static/js/runtime~main.7bd7dd41.js",
+  "runtime~main.js.map": "/simple-todo/static/js/runtime~main.7bd7dd41.js.map",
+  "static/css/main.4c9c007e.chunk.css.map": "/simple-todo/static/css/main.4c9c007e.chunk.css.map",
+  "index.html": "/simple-todo/index.html",
+  "precache-manifest.9b8e14015beb019027b6e44f7c97f8f0.js": "/simple-todo/precache-manifest.9b8e14015beb019027b6e44f7c97f8f0.js",
+  "service-worker.js": "/simple-todo/service-worker.js"
+}
